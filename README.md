@@ -1,1 +1,1 @@
-# AI-chatbot-widgett
+# AI-chatbot-widget
